@@ -5,6 +5,14 @@ I am from Pune
 i work in Infosys.
 
 
+Skills:
+GIT
+DEVOPS
+UNIX
+SQL
+
+
+
 Thank You...
 
 Master copy done...
